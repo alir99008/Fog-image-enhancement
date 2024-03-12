@@ -1,4 +1,4 @@
 # Fog-image-enhancement
-in this enhancement of the image processing using image processing
+in this enhancement of the foggy image using image processing
 <br>
 by using histogram equalization
