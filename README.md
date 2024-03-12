@@ -1,3 +1,4 @@
 # Fog-image-enhancement
-its all about to fog image enhancement using machine learning
-and deep learning
+in this enhancement of the image processing using image processing
+<br>
+by using histogram equalization
